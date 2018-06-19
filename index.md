@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Relation cardinality in Knowledge Bases
 
-You can use the [editor on GitHub](https://github.com/emir-munoz/kb-cardinality/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+There is an increasing number of Semantic Web knowledgebases (KBs) available on the Web, generated in academia and industry alike. In this paper, we address the problem of lack of structure in these KBs due to their schema-free nature required for open environments such as the Web. We propose a definition for relation cardinality bounds that can be used to unveil the structure that KBs data naturally exhibit. Relation cardinality is an important structural aspect of data that has not received enough attention in the context of KBs. Information about relation cardinalities such as a person can have two parents and zero or more children, or a book should have one author at least, or a country should have more than two cities can be useful for data users and knowledge engineers when writing queries and reusing or engineering KB systems. Such cardinalities can be declared using OWL and RDF constraint languages as constraints on the usage of properties in the domain of knowledge; however, their declaration is optional and consistency with the instance data is not ensured. In this work, we propose a mining algorithm for retrieving statistical relation cardinality bounds that agree with the semantics of the data. We study the use of these relation cardinality bounds to assess two relevant data quality dimensions: consistency and accuracy. Finally, we report that relation cardinality bounds can also be used to expose structural characteristics of a KB by mapping the bounds into a constraint language to declare the actual shape of data.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/emir-munoz/kb-cardinality/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
