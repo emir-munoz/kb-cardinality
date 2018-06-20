@@ -6,8 +6,8 @@ In a nutshell, we try to solve the following problem:
 
 | Relation Cardinality Mining Problem |
 |-------------------------------------|
-| ** Input: ** a knowledge base $$\mathcal{G}$$, and optional context $$\tau$$ |
-| ** Output: ** a set $$\Sigma$$ of relation cardinality bounds that are satisfied by $$\mathcal{G}$$. |
+| ** Input: ** a knowledge base <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\mathcal{G}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\mathcal{G}" title="\mathcal{G}" /></a>, and optional context <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\tau" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\tau" title="\tau" /></a> |
+| ** Output: ** a set $$\Sigma$$ of relation cardinality bounds that are satisfied by <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\mathcal{G}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\mathcal{G}" title="\mathcal{G}" /></a>. |
 
 For addressing this problem, we propose an algorithm with to possible implementations. First, using SPARQL query language to generate a rather complex query, and second using Apache Spark[^1] with MapReduce.
 
