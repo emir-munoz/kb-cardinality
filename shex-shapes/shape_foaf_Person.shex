@@ -1,0 +1,26 @@
+foaf:Person {
+swc:affiliation . {0, 3} ;
+swc:givesKeynoteTalk . {0, 1} ;
+swc:holdsRole . {0, 22} ;
+swc:isPanelistAt . {0, 1} ;
+swc:moderates . {0, 1} ;
+swrc:affiliation . {0, 6} ;
+swrc:bio . {0, 1} ;
+swrc:listAffiliation . {0, 1} ;
+rdfs:label . {0, 4} ;
+rdfs:seeAlso . {0, 1} ;
+owl:sameAs . {0, 1} ;
+skos:prefLabel . {0, 1} ;
+foaf:based_near . {0, 3} ;
+foaf:familyName . {0, 3}
+foaf:firstName . {0, 3} ;
+foaf:givesName . {0, 2} ;
+foaf:homepage . {0, 3} ;
+foaf:lastName . {0, 3} ;
+foaf:made . {0, 11} ;
+foaf:mbox_sha1sum . {0, 7} ;
+foaf:member . {0, 1} ;
+foaf:name . {1, 4} ;
+foaf:page . {0, 2} ;
+foaf:surname . {0, 1}
+}

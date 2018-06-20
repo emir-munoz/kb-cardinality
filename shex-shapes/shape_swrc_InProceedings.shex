@@ -1,0 +1,31 @@
+swrc:InProceedings {
+swc:hasRelatedEvent . {0, 1} ;
+swc:hasTopic . {0, 15} ;
+swc:isPartOf . {0, 2} ;
+swc:relatedToEvent . {0, 1} ;
+dc:creator . {0, 21} ;
+dc:identifier . {0, 1} ;
+dc:subject . {0, 14} ;
+dc:title . {0, 1} ;
+dct:creator . {0, 13} ;
+dct:subject . {0, 14} ;
+dct:title . {0, 2} ;
+bibo:authorList . {0, 1} ;
+swrc:abstract . {0, 2} ;
+swrc:author . {0, 13} ;
+swrc:idLncs . {0, 1} ;
+swrc:listAuthor . {0, 1} ;
+swrc:listKeyword . {0, 1} ;
+swrc:month . {0, 1} ;
+swrc:pages . {0, 1} ;
+swrc:pdf . {0, 1} ;
+swrc:spotlight . {0, 1} ;
+swrc:title . {0, 1} ;
+swrc:url . {0, 2} ;
+swrc:year . {0, 1} ;
+swrce:authorList . {0, 1} ;
+rdfs:label . {0, 2} ;
+owl:sameAs . {0, 1} ;
+foaf:maker . {0, 21} ;
+foaf:topic . {0, 14}
+}
