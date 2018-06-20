@@ -13,12 +13,12 @@ For addressing this problem, we propose an algorithm with to possible implementa
 
 ### SPARQL implementation
 
-![sparql-query_v1.png](sparql-query_v1.png)
+![sparql-query_v1.png](./img/sparql-query_v1.png)
 
 
 ### Spark implementation
 
-![map-reduce_v2.png](map-reduce_v2.png)
+![map-reduce_v2.png](./img/map-reduce_v2.png)
 
 
 ## Datasets
@@ -56,7 +56,7 @@ The characteristics of the datasets are summarised in the table below.
 We propose a mapping of the relation cardinality bounds to the Shape Expressions (ShEx)[^2] constraint language. Such schema shapes can be used to validate the data in the knoweldge base.
 
 
-![shex-schemas_v1.png](shex-schemas_v1.png)
+![shex-schemas_v1.png](./img/shex-schemas_v1.png)
 
 
 ## Publications
